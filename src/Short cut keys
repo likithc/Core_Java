@@ -1,0 +1,8 @@
+short cut keys
+1. control + space : for suggestion
+2. control + i : indendation
+3. control + f : remove unwanted spaces
+4. control + d : deleting a line 
+5. control + shift + o : importing the un imported class
+6. control + 2 + l : to get return type as local variable
+6. control + 2 + f : to get return type as instance variable
