@@ -1,11 +1,11 @@
-package com.xyz.basicsofprogramming.day58;
+package com.xyz.basicsofprogramming.day61;
 
-import java.util.ArrayDeque;
+import java.util.LinkedList;
 
-public class ArrayDequeCode7 {
+public class LinkedListCode7 {
 
 	public static void main(String[] args) {
-	 ArrayDeque ad = new ArrayDeque();
+	 LinkedList ad = new LinkedList();
 	 ad.add(100);
 	 ad.add(200);
 	 ad.add(300);

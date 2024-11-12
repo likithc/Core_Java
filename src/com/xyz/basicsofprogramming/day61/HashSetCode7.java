@@ -1,11 +1,11 @@
-package com.xyz.basicsofprogramming.day58;
+package com.xyz.basicsofprogramming.day61;
 
-import java.util.ArrayDeque;
+import java.util.HashSet;
 
-public class ArrayDequeCode7 {
+public class HashSetCode7 {
 
 	public static void main(String[] args) {
-	 ArrayDeque ad = new ArrayDeque();
+	 HashSet ad = new HashSet();
 	 ad.add(100);
 	 ad.add(200);
 	 ad.add(300);
@@ -14,7 +14,7 @@ public class ArrayDequeCode7 {
 	 ad.add(600);
 	 System.out.println(ad);
 	 
-	 ad.push(999);
+	 ad.(999);
 	 System.out.println(ad);
 	 
 	 ad.pop();

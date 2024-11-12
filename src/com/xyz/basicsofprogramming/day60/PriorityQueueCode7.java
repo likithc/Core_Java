@@ -1,11 +1,11 @@
-package com.xyz.basicsofprogramming.day58;
+package com.xyz.basicsofprogramming.day60;
 
-import java.util.ArrayDeque;
+import java.util.PriorityQueue;
 
-public class ArrayDequeCode7 {
+public class PriorityQueueCode7 {
 
 	public static void main(String[] args) {
-	 ArrayDeque ad = new ArrayDeque();
+	 PriorityQueue ad = new PriorityQueue();
 	 ad.add(100);
 	 ad.add(200);
 	 ad.add(300);
